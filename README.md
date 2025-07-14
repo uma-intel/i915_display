@@ -1,2 +1,4 @@
 # i915_display
-Repository for i915 Display Development
+Repository for i915 Display Development.
+
+Branch for fixes
